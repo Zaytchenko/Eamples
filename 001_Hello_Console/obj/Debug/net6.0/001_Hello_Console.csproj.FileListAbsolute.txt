@@ -1,0 +1,15 @@
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Examples\001_Hello_Console\bin\Debug\net6.0\001_Hello_Console.exe
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Examples\001_Hello_Console\bin\Debug\net6.0\001_Hello_Console.deps.json
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Examples\001_Hello_Console\bin\Debug\net6.0\001_Hello_Console.runtimeconfig.json
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Examples\001_Hello_Console\bin\Debug\net6.0\001_Hello_Console.dll
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Examples\001_Hello_Console\bin\Debug\net6.0\001_Hello_Console.pdb
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Examples\001_Hello_Console\obj\Debug\net6.0\001_Hello_Console.csproj.AssemblyReference.cache
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Examples\001_Hello_Console\obj\Debug\net6.0\001_Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Examples\001_Hello_Console\obj\Debug\net6.0\001_Hello_Console.AssemblyInfoInputs.cache
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Examples\001_Hello_Console\obj\Debug\net6.0\001_Hello_Console.AssemblyInfo.cs
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Examples\001_Hello_Console\obj\Debug\net6.0\001_Hello_Console.csproj.CoreCompileInputs.cache
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Examples\001_Hello_Console\obj\Debug\net6.0\001_Hello_Console.dll
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Examples\001_Hello_Console\obj\Debug\net6.0\refint\001_Hello_Console.dll
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Examples\001_Hello_Console\obj\Debug\net6.0\001_Hello_Console.pdb
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Examples\001_Hello_Console\obj\Debug\net6.0\001_Hello_Console.genruntimeconfig.cache
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Examples\001_Hello_Console\obj\Debug\net6.0\ref\001_Hello_Console.dll
